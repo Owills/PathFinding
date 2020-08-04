@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=City
+comment1.params=newName
+comment1.target=City(java.lang.String)
+comment2.params=otherCity\ distance
+comment2.target=void\ addConnection(City,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.util.ArrayList\ getConnections()
+numComments=5

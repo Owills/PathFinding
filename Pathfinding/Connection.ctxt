@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Connection
+comment1.params=targetCity\ time
+comment1.target=Connection(City,\ int)
+comment2.params=
+comment2.target=City\ getDestination()
+comment3.params=
+comment3.target=int\ getDriveTime()
+numComments=4
